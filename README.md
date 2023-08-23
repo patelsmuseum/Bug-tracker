@@ -3,7 +3,7 @@ Issue Tracker is a web-based application that allows users to create and manage 
 
 
 # Try it out 
-[live Lin](https://issue-tracker-mkql.onrender.com/)
+# [live Link](https://issue-tracker-mkql.onrender.com/)
 
 
 ## Installation
